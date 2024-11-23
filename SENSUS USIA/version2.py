@@ -29,4 +29,4 @@ for i in range(jumlah_orang):
 
 print("Kelompok Usia = ")
 for kelompok, hitung in kelompok_usia.items():
-    print(f"{kelompok}: {hitung} individu")
+    print(f"{kelompok}: {hitung} individu")
