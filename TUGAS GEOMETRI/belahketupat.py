@@ -1,6 +1,6 @@
 print("==========================================")
 print("Menghitung Luas dan Keliling Belah Ketupat")
-print("------------------------------------------")
+print("=========================================")
 
 diagonal1 =int(input('Masukan nilai diagonal1 \t= '))
 diagonal2 =int(input('Masukan nilai diagonal2 \t= '))

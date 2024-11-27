@@ -1,6 +1,6 @@
 print("================================")
 print('Hitung Luas dan Keliling Persegi')
-print('--------------------------------')
+print('================================')
 
 sisi = int(input('Masukan nilai sisi\t= '))
 
