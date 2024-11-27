@@ -11,8 +11,8 @@ def layang ():
     keliling = lambda d1,d2 : 1/2 * (d1 * d2)
     luas = lambda s1,s2 : 2 * (s1+s2)
 
-    print("Nilai Keliling Layang Layang adalah\t\t= ", keliling(sisi1,sisi2), "cm")
-    print("Nilai Luas Layang layang adalah\t\t\t= ", luas(diagonal1,diagonal2), "cm")
+    print("Nilai Luas Layang Layang adalah\t\t= ", luas(sisi1,sisi2), "cm")
+    print("Nilai Keliling Layang layang adalah\t\t\t= ", keliling(diagonal1,diagonal2), "cm")
 
 layang()
 layang()
